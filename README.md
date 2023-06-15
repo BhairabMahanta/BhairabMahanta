@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BhairabMahanta
 - 👀 I’m interested in learning new things everyday and gamnig    
-- 🌱 I’m currently learning c and python
+- 🌱 I’m currently learning c and js
 - 💞️ I’m looking to collaborate on -> (on hold until im proficient in some languages)
-- 📫 How to reach me? -> DM me on discord Akaimnky#6850
+- 📫 How to reach me? -> DM me on discord akaimnky
 
 <!---
 BhairabMahanta/BhairabMahanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
