@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BhairabMahanta
 - 👀 I’m interested in learning new things everyday and gamnig    
 - 🌱 I’m currently learning c and js
-- 💞️ I’m looking to collaborate on -> (on hold until im proficient in some languages)
+- 💞️ I’m looking to collaborate on -> javascript projects at internship level.
 - 📫 How to reach me? -> DM me on discord akaimnky
 
 <!---
