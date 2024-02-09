@@ -9,7 +9,12 @@
 ## 
 My walkatime stats!
 ##
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ce8da-6f27-49d4-a064-f0ad4bd15640/a4a9ee74-db67-4e55-b58f-b948b927227f.png" /></a>
+<p align="center">    
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Akaimnky&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
+          <img alt="Pure's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Akaimnky&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+    </p>
+
 <!---
 BhairabMahanta/BhairabMahanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
